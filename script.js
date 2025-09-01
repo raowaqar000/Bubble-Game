@@ -2,7 +2,7 @@ let timerVal = document.querySelector("#timer")
 let hitval = document.querySelector("#hitVal")
 let scoreVal = document.querySelector('#score')
 
-let timer = 5
+let timer = 60
 let score = 0
 let Hitrn = 0
 
